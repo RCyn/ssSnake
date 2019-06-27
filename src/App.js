@@ -9,7 +9,6 @@ function App() {
         <p align="center">Welcome to ssSnake!</p>
         <Board />
       </header>
-      <body></body>
     </div>
   );
 }
